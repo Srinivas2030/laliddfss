@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="hero">
       <video className="hero-video" autoPlay loop muted>
-        <source src="https://drive.google.com/file/d/19Bk35mNfcbYCRvXz870UN4mRgc_9iv7g/view?usp=sharing" type="video/mp4" />
+        <source src="/travel.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="hero-content">
